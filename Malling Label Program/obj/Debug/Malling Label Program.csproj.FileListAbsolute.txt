@@ -1,0 +1,10 @@
+C:\Repositories\Malling Label Program\Malling Label Program\bin\Debug\Malling Label Program.exe.config
+C:\Repositories\Malling Label Program\Malling Label Program\bin\Debug\Malling Label Program.exe
+C:\Repositories\Malling Label Program\Malling Label Program\bin\Debug\Malling Label Program.pdb
+C:\Repositories\Malling Label Program\Malling Label Program\obj\Debug\Malling Label Program.csprojAssemblyReference.cache
+C:\Repositories\Malling Label Program\Malling Label Program\obj\Debug\Malling_Label_Program.frmMain.resources
+C:\Repositories\Malling Label Program\Malling Label Program\obj\Debug\Malling_Label_Program.Properties.Resources.resources
+C:\Repositories\Malling Label Program\Malling Label Program\obj\Debug\Malling Label Program.csproj.GenerateResource.cache
+C:\Repositories\Malling Label Program\Malling Label Program\obj\Debug\Malling Label Program.csproj.CoreCompileInputs.cache
+C:\Repositories\Malling Label Program\Malling Label Program\obj\Debug\Malling Label Program.exe
+C:\Repositories\Malling Label Program\Malling Label Program\obj\Debug\Malling Label Program.pdb
